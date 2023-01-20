@@ -71,3 +71,12 @@
     font-weight: 700;
     text-decoration: none;
 }
+
+.descrição__titulo-estrela {
+    margin-bottom: 0.5em;
+    color: var(--laranja);
+}
+
+.descrição__imagem__autora {
+    margin-left: 0.5em;
+}
